@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "amount": 250.75,
+    "customer_id": 101
+  },
+  {
+    "id": 2,
+    "amount": 120.00,
+    "customer_id": 102
+  },
+  {
+    "id": 3,
+    "amount": 320.40,
+    "customer_id": 999
+  },
+  {
+    "id": 4,
+    "amount": 75.50,
+    "customer_id": 103
+  },
+  {
+    "id": 5,
+    "amount": 500.00,
+    "customer_id": 104
+  }
+]
